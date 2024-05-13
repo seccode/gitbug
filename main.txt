@@ -1,1 +1,1 @@
-net7.0-windows
+net8.0-windows
